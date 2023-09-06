@@ -1,0 +1,52 @@
+.anime-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 300px;
+    display: inline-block;
+}
+.header {
+    background-color: #28a745; /* Green background color */
+    text-align: center; /* Center align the text */
+    padding: 20px; /* Add padding to the header */
+}
+
+.header-text {
+    font-family: "Arial", sans-serif; /* Specify a catchy font */
+    color: #fff; /* White text color */
+    font-size: 24px; /* Adjust font size as needed */
+}
+
+.anime-image {
+    max-width: 100%;
+}
+
+/* Style for Anime URL button */
+.anime-url-button {
+    background-color: #007bff; /* Blue background color */
+    color: #fff; /* White text color */
+    padding: 5px 10px; /* Padding around the button text */
+    margin-right: 5px; /* Margin between buttons */
+    text-decoration: none; /* Remove underlines from links */
+    border: none; /* Remove borders */
+    cursor: pointer; /* Change cursor on hover */
+}
+
+/* Style for Watch Trailer button */
+.watch-trailer-button {
+    background-color: #28a745; /* Green background color */
+    color: #fff; /* White text color */
+    padding: 5px 10px; /* Padding around the button text */
+    text-decoration: none; /* Remove underlines from links */
+    border: none; /* Remove borders */
+    cursor: pointer; /* Change cursor on hover */
+}
+
+.episodes {
+    background-color: #000; /* Black background color */
+    color: #fff; /* White text color */
+    padding: 5px 10px; /* Padding around the content */
+    border-radius: 5px; /* Rounded corners */
+    margin-top: 5px; /* Margin from the elements above */
+}
